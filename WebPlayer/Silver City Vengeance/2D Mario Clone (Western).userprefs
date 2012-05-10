@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Silver City Assets\Scripts\playerControls.js">
+    <Files>
+      <File FileName="Assets\Silver City Assets\Scripts\Rifle.js" Line="14" Column="29" />
+      <File FileName="Assets\Silver City Assets\Scripts\DualRevolvers.js" Line="72" Column="12" />
+      <File FileName="Assets\Silver City Assets\Scripts\playerControls.js" Line="52" Column="42" />
+      <File FileName="Assets\Silver City Assets\Scripts\playerProperties.js" Line="63" Column="33" />
+      <File FileName="Assets\Silver City Assets\Scripts\Shotgun.js" Line="13" Column="29" />
+      <File FileName="Assets\Silver City Assets\Scripts\ShotgunEnemy.js" Line="115" Column="74" />
+      <File FileName="Assets\Silver City Assets\Scripts\RevolverEnemy.js" Line="108" Column="23" />
+      <File FileName="Assets\Silver City Assets\Scripts\Revolver.js" Line="10" Column="22" />
+      <File FileName="Assets\Silver City Assets\Scripts\Dynamite.js" Line="4" Column="24" />
+      <File FileName="Assets\Silver City Assets\Scripts\DynamiteEnemy.js" Line="146" Column="18" />
+      <File FileName="Assets\Silver City Assets\Scripts\DynamiteThrower.js" Line="10" Column="22" />
+      <File FileName="Assets\Silver City Assets\Scripts\PickaxeEnemy.js" Line="7" Column="32" />
+      <File FileName="Assets\Silver City Assets\Scripts\RifleBullet.js" Line="58" Column="45" />
+      <File FileName="Assets\Silver City Assets\Scripts\Bullet.js" Line="56" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
