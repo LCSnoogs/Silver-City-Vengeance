@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Silver City Assets/Scripts/playerControls.js">
+    <Files>
+      <File FileName="Assets/Silver City Assets/Scripts/ShotgunEnemy.js" Line="68" Column="2" />
+      <File FileName="Assets/Silver City Assets/Scripts/Blood.js" Line="3" Column="31" />
+      <File FileName="Assets/Silver City Assets/Scripts/healthUpdateScript.js" Line="22" Column="18" />
+      <File FileName="Assets/Silver City Assets/Scripts/PickaxeEnemy.js" Line="80" Column="33" />
+      <File FileName="Assets/Silver City Assets/Scripts/healthScript.js" Line="63" Column="23" />
+      <File FileName="Assets/Silver City Assets/Scripts/playerProperties.js" Line="163" Column="1" />
+      <File FileName="Assets/Silver City Assets/Scripts/Bullet.js" Line="46" Column="3" />
+      <File FileName="Assets/Silver City Assets/Scripts/playerControls.js" Line="29" Column="1" />
+      <File FileName="Assets/Silver City Assets/Scripts/DynamiteEnemy.js" Line="16" Column="1" />
+      <File FileName="Assets/Silver City Assets/Scripts/aniSprite.js" Line="1" Column="1" />
+      <File FileName="Assets/Silver City Assets/Scripts/Dynamite.js" Line="48" Column="22" />
+      <File FileName="Assets/Silver City Assets/Scripts/Explosion.js" Line="10" Column="17" />
+      <File FileName="Assets/Silver City Assets/Scripts/Revolver.js" Line="33" Column="72" />
+      <File FileName="Assets/Silver City Assets/Scripts/spawnSaveSetup.js" Line="8" Column="1" />
+      <File FileName="Assets/Silver City Assets/Scripts/Shotgun.js" Line="52" Column="3" />
+      <File FileName="Assets/Silver City Assets/Scripts/timeController.js" Line="1" Column="1" />
+      <File FileName="Assets/Silver City Assets/Editor/MakePrefab.js" Line="37" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
